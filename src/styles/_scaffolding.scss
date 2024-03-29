@@ -18,12 +18,12 @@ h1 {
 
 .image {
   display: block;
+  width: 400px;
   height: 300px;
-  width: 300px;
   margin: 0 auto;
   // background-image: url('~assets/forest.jpeg');
   // background-image: url('~/public/forest.jpeg');
-  background-image: url('../images/forest-copy.jpeg');
+  background-image: url('../images/dog.jpg');
   background-size: cover;
 }
 
